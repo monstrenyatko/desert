@@ -52,8 +52,8 @@ public class PropertyLoader {
 		return null;
 	}
 
-	private static final String PROPERTIES_LIBRARY = "/library.properties";
-	private static final String PROPERTIES_DEFAULT = "/default.properties";
+	private static final String PROPERTIES_LIBRARY = "/desert-base.properties";
+	private static final String PROPERTIES_DEFAULT = "/desert.properties";
 	private static final String PROPERTIES_ENV_VAR = "config.path";
 	private static PropertyLoader instance;
 	private Properties propertyLibrary;
