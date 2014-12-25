@@ -61,3 +61,7 @@ to complete before throwing an error
 a new instance of `PageObject` class and Initialization of elements of the page.
 It gives a chance to load some parts of the page.
 <br/> Default: 300
+
+Example
+=======
+See https://github.com/monstrenyatko/desert-example
